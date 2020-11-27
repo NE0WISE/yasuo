@@ -1,9 +1,11 @@
-# YauOSploit 
+# YauOSploit v2.0
 
-[+] Brute Force  
-[+] Phishing
-[+] Whatsapp Hack
-[+] Ngrok 
+* `Brute Force   `  
+* `Phishing ` 
+* `Whatsapp Hack ` 
+* `Ngrok  ` 
+
+[+]
 
 * `Facebook ` 
 * `İnstagram  `
