@@ -3,7 +3,7 @@ clear
 echo -e  "
 
 
-\e[35m     ((( #Türk Siber Timi  #Yaman Efkar )))
+\e[35m     ((( #Code  #Neowise )))
 
 
 "
@@ -135,6 +135,6 @@ else
         bash code.sh
 fi
 echo -e "\e[31m"
-read -p "Ana Menüye Dönmek İçin Entere Basınız...." non
+read -p "Menüye Dönmek İçin Entere Basınız...." non
 cd ..
 bash tst.sh
