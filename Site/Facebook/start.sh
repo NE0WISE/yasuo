@@ -3,15 +3,13 @@ start.sh
 
 #!/bin/bash
 
-#Code:Yaman Efkar
-#Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#Code: Mr.Neowise
+#Youtube : Serhat Türk 
 clear
 echo -e  "
 
 
-\e[35m     ((( #Türk Siber Timi  #Yaman Efkar )))
+\e[35m     ((( #Cyber Turkish  #Mr.Neowise )))
 
 
 
@@ -48,7 +46,7 @@ cd ..
 bash tst.sh
 elif [[ $islem == 9 || $islem == 99 ]]; then
 clear
-echo -e "\e[31mTürk Siber Timi İyi Günler Diler :)) ßß"
+echo -e "\e[31mMr.Neowise İyi Günler Diler :)) ßß"
 clear
 sleep 1
 exit 1
