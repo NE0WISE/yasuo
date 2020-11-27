@@ -1,16 +1,20 @@
 #!/bin/bash|
-#Code:Mr.Neowise
-#Youtube : Serhat Türk
+#Code:Yaman Efkar
+#Türk Siber Timi
+#İnstagram : @turksibertimi
+#Youtube : YamanEfkar
 
 clear
 
 echo -e '\033[32;40;1m
+        /\︵-︵/\
+        |( ◉)(◉)|
+        \ ︶V︶ /
+        /↺↺↺↺↺↺↺\
+        ↺↺↺↺↺↺↺↺|
+        \↺↺↺↺↺↺↺/
+        ¯¯/\¯/\¯¯ '
 
- __   __     ______     ______     __     __     __     ______     ______    
-/\ "-.\ \   /\  ___\   /\  __ \   /\ \  _ \ \   /\ \   /\  ___\   /\  ___\   
-\ \ \-.  \  \ \  __\   \ \ \/\ \  \ \ \/ ".\ \  \ \ \  \ \___  \  \ \  __\   
- \ \_\\"\_\  \ \_____\  \ \_____\  \ \__/".~\_\  \ \_\  \/\_____\  \ \_____\ 
-  \/_/ \/_/   \/_____/   \/_____/   \/_/   \/_/   \/_/   \/_____/   \/_____/ 
 
 
 echo -e "\033[31;40;1m
@@ -19,7 +23,7 @@ echo -e "\033[31;40;1m
 \e[31m[00]\e[37m Menü
 \e[31m[99]\e[37m Exit
 "
-echo -e "\033[32;40;1m                      ~~~Coder Neowise~~~"
+echo -e "\033[32;40;1m                      ~~~Yaman Efkar~~~"
 echo ""
 read -p "İslem Numarası : " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
