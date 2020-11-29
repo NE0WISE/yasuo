@@ -1,16 +1,19 @@
 #!/bin/bash|
-#Code:Neowise
-#Turkish Cyber Team
-#İnstagram : @_serhatc
-#Youtube : SerhatTürk
+#Code:Yaman Efkar
+#Türk Siber Timi
+#İnstagram : @turksibertimi
+#Youtube : YamanEfkar
 
 clear
 
 echo -e '\033[32;40;1m
-           
-        MR.NE◉WİSE
-          
-        Cyber Turkish 
+        /\︵-︵/\
+        |( ◉)(◉)|
+        \ ︶V︶ /
+        /↺↺↺↺↺↺↺\
+        ↺↺↺↺↺↺↺↺|
+        \↺↺↺↺↺↺↺/
+        ¯¯/\¯/\¯¯ '
 
 
 
@@ -20,7 +23,7 @@ echo -e "\033[31;40;1m
 \e[31m[00]\e[37m Menü
 \e[31m[99]\e[37m Exit
 "
-echo -e "\033[32;40;1m                      ~~~Serhat Türk~~~"
+echo -e "\033[32;40;1m                      ~~~Yaman Efkar~~~"
 echo ""
 read -p "İslem Numarası : " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
