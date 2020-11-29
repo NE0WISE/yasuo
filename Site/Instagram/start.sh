@@ -1,18 +1,17 @@
 #!/bin/bash|
-#Code:Mr.Neowise
-#Youtube : Serhat Türk
+#Code:Neowise
+#Turkish Cyber Team
+#İnstagram : @_serhatc
+#Youtube : SerhatTürk
 
 clear
 
 echo -e '\033[32;40;1m
+           
+        MR.NE◉WİSE
+          
+        Cyber Turkish 
 
-      ::::    ::: :::::::::: ::::::::  :::       ::: ::::::::::: ::::::::  :::::::::: 
-     :+:+:   :+: :+:       :+:    :+: :+:       :+:     :+:    :+:    :+: :+:         
-    :+:+:+  +:+ +:+       +:+    +:+ +:+       +:+     +:+    +:+        +:+          
-   +#+ +:+ +#+ +#++:++#  +#+    +:+ +#+  +:+  +#+     +#+    +#++:++#++ +#++:++#      
-  +#+  +#+#+# +#+       +#+    +#+ +#+ +#+#+ +#+     +#+           +#+ +#+            
- #+#   #+#+# #+#       #+#    #+#  #+#+# #+#+#      #+#    #+#    #+# #+#             
-###    #### ########## ########    ###   ###   ########### ########  ##########       
 
 
 echo -e "\033[31;40;1m
@@ -21,7 +20,7 @@ echo -e "\033[31;40;1m
 \e[31m[00]\e[37m Menü
 \e[31m[99]\e[37m Exit
 "
-echo -e "\033[32;40;1m                      ~~~ Mr.Neowise ~~~"
+echo -e "\033[32;40;1m                      ~~~Serhat Türk~~~"
 echo ""
 read -p "İslem Numarası : " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
@@ -52,7 +51,7 @@ elif [[ $islem == 3 || $islem == 03 ]]; then
 	php -S 127.0.0.1:$port > -t & ngrok http $port
 	elif [[ $islem == 9 || $islem == 99 ]]; then
 	clear
-	echo -e "\e[31mTurkish Cyber Team İyi Günler Diler :)) ßß"
+	echo -e "\e[31mTürk Siber Timi İyi Günler Diler :)) ßß"
 	sleep 1 
 	exit 1
 elif [[ $islem == 00 ]]; then
