@@ -1,8 +1,8 @@
 #!/bin/bash|
-#Code:Yaman Efkar
+#Code:Serhat Türk
 #Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#İnstagram : @anonyms
+#Youtube : Serhat Türk
 
 clear
 
@@ -23,7 +23,7 @@ echo -e "\033[31;40;1m
 \e[31m[00]\e[37m Menü
 \e[31m[99]\e[37m Exit
 "
-echo -e "\033[32;40;1m                      ~~~Yaman Efkar~~~"
+echo -e "\033[32;40;1m                      ~~~Serhat Türk~~~"
 echo ""
 read -p "İslem Numarası : " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
@@ -54,7 +54,7 @@ elif [[ $islem == 3 || $islem == 03 ]]; then
 	php -S 127.0.0.1:$port > -t & ngrok http $port
 	elif [[ $islem == 9 || $islem == 99 ]]; then
 	clear
-	echo -e "\e[31mTürk Siber Timi İyi Günler Diler :)) ßß"
+	echo -e "\e[31mTürk Siber Timi İyi Günler Diler :)) "
 	sleep 1 
 	exit 1
 elif [[ $islem == 00 ]]; then
