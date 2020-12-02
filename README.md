@@ -1,15 +1,19 @@
 # YauOSploit v2.0
 
+Yasuo v2.0 is currently being prepared for the new version,
+you can still use yasuo v2.0
+
+
+
 * `Brute Force   `  
-* `Phishing ` 
-* `Whatsapp Hack ` 
+* `Phishing ' 
 * `Ngrok  ` 
 
 [+]
 
 * `Facebook ` 
 * `İnstagram  `
-* `Whatsapp ` 
+* `Whatsapp  ` Kaldırıldı
 * `Twitter `  
 * `E-Mail  `  
 
