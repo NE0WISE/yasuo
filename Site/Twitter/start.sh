@@ -18,7 +18,7 @@ echo -e  "
 \e[31m[99]\e[37m Exit
 "
 echo -e "\e[49m"
-read -p "İşlem Numarasını Giriniz: " islem
+read -p "İşlem Numarası: " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
         read -p "Port Giriniz: " port
         echo -e "\e[32mCode: twitter01"
