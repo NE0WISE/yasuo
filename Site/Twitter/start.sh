@@ -6,7 +6,7 @@ clear
 echo -e  "
 
 
-\e[35m     ((( #Turkish Cyber Team  #MR.Neowise )))
+\e[35m     ((( #Turkish Cyber Team 🇹🇷  #MR.Neowise )))
 
 
 
@@ -41,15 +41,15 @@ elif [[ $islem == 2 || $islem == 02 ]]; then
 elif [[ $islem == 0 || $islem == 00 ]]; then
 cd ..
 cd ..
-bash tst.sh
+bash hasaki.sh
 elif [[ $islem == 9 || $islem == 99 ]]; then
-echo -e "\e[31mMR.Neowise İyi Günler Diler :)) ßß"
+echo -e "\e[31mMR.Neowise İyi Günler Diler 🇹🇷 "
 sleep 1
 clear
 exit 1
 else
 echo ""
-echo -e "\e[31m Girdiğiniz İşlem Numarasını Kontrol Ediniz...."
+echo -e "\e[31m Hata! Code Numarasını Kontrol Ediniz...."
 sleep 3
 clear
 bash start.sh
