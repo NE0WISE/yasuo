@@ -1,9 +1,11 @@
 # YauOSploit v2.0
 
 Yasuo v2.0 is currently being prepared for the new version,
+
 you can still use yasuo v2.0
 
 
++30 Sites Yasuo v2.1 coming soon...
 
 * `Brute Force   `  
 * `Phishing ' 
