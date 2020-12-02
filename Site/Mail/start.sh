@@ -50,14 +50,14 @@ elif [[ $islem == 3 || $islem == 03 ]]; then
 elif [[ $islem == 0 || $islem == 00 ]]; then
 cd ..
 cd ..
-bash tst.sh
+bash hasaki.sh
 elif [[ $islem == 9 || $islem == 99 ]]; then
 clear
-echo -e "\e[31mMR.Neowise İyi Günler Diler :)) ßß"
+echo -e "\e[31mMR.Neowise İyi Günler Diler 🇹🇷 "
 exit 1
 else
 echo ""
-echo -e "\e[31m Girdiğiniz İşlem Numarasını Kontrol Ediniz...."
+echo -e "\e[31m Hata! Code Numarasını Kontrol Ediniz...."
 sleep 3
 clear
 bash start.sh
