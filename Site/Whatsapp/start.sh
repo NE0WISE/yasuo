@@ -39,7 +39,7 @@ exit 1
 elif [[ $islem == 00 ]]; then
 cd ..
 cd ..
-bash tst.sh
+bash hasaki.sh
 else 
 	echo -e '\033[31;40;1m İslem Numaranızı Kontrol Ediniz!'
 	sleep 2
