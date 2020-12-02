@@ -5,10 +5,10 @@ Yasuo v2.0 is currently being prepared for the new version,
 you can still use yasuo v2.0
 
 
-+30 Sites Yasuo v2.1 coming soon...
++30Sites Yasuo new version coming soon...
 
 * `Brute Force   `  
-* `Phishing ' 
+* `Phishing  `   
 * `Ngrok  ` 
 
 [+]
@@ -19,7 +19,7 @@ you can still use yasuo v2.0
 * `Twitter `  
 * `E-Mail  `  
 
-YouTube:https://youtu.be/oSOFl0yWBNs
+YouTube'da:https://youtu.be/oSOFl0yWBNs
 
 [![Github](https://img.shields.io/badge/Github-NE0--WISE-green?style=for-the-badge&logo=github)](https://github.com/NE0WISE)
 
