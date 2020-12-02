@@ -1,5 +1,5 @@
 # Date: 01/09/2019
-# Author: Mohamed
+# Author: Neowise
 # Description: Install file
 
 from time import sleep
