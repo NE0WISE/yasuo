@@ -26,7 +26,7 @@ if [[ $islem == 1 || $islem == 01 ]]; then
 	php -S 127.0.0.1:$port > -t & ngrok http $port
 elif [[ $islem == 2 || $islem == 02 ]]; then
         cd  Instagram-bruteforce/
-        read -p "Hedef Kullanıcının Username : " username
+        read -p "Hedef Kullanıcının   Adı    : " username
         echo ""
         read -p "Wordlist'in Bulunduğu Dizin : " password
         python3 instagram.py $username $password -m 3
@@ -43,7 +43,7 @@ elif [[ $islem == 3 || $islem == 03 ]]; then
 	php -S 127.0.0.1:$port > -t & ngrok http $port
 	elif [[ $islem == 9 || $islem == 99 ]]; then
 	clear
-	echo -e "\e[31mTürk Siber Timi İyi Günler Diler :)) "
+	echo -e "\e[31mTürk Siber Timi İyi Günler Diler 🇹🇷 "
 	sleep 1 
 	exit 1
 elif [[ $islem == 00 ]]; then
@@ -53,7 +53,7 @@ elif [[ $islem == 00 ]]; then
 
 
 else
-	echo -e '\033[31;40;1m İslem Numaranızı Kontrol Ediniz!'
+	echo -e '\033[31;40;1m Hata! Kodu Kontrol Ediniz!'
 	sleep 2
 	clear
 	bash hasaki.sh
