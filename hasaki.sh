@@ -46,7 +46,7 @@ echo -e '\033[31;40;1m
  ░ ░                                          
 
 
-	   \e[35m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★ Mr.Neowise 🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
+	   \e[35m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★ Serhat Türk 🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
 	 \e[31m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★ Cyber Turkish 🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
   \e[32m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★  Youtube  ;  Mister Neowise  🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
 '
