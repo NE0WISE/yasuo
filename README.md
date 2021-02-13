@@ -19,7 +19,7 @@ you can still use yasuo v2.0
 * `Twitter `  
 * `E-Mail  `  
 
-YouTube'da:https://youtu.be/2zQXlnM7LiM
+YouTube'da: https://youtu.be/1sSendrot0A
 
 [![Github](https://img.shields.io/badge/Github-NE0--WISE-green?style=for-the-badge&logo=github)](https://github.com/NE0WISE)
 
